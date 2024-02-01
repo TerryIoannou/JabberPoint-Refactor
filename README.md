@@ -1,10 +1,24 @@
-Hello, This is the End Assignment for Object Orienting Design.
+Welcome to the Object-Oriented Design End Assignment submission. Below is a guide to navigating the contents of this repository.
 
+Student Information:
 Student: Terry Ioannou
+Part One - Diagrams:
+Location: [Diagrams Folder]
+Contents: Three diagrams pertinent to Part 1 of the assignment.
+Part Two - Source Code and Diagrams:
+Location: [Jabberpoint_Sourcecode_Students Folder]
 
-Part one is in the Diagrams Folder and there you can find the 3 diagrams from Part 1.
+Subfolders:
+api folder: Contains code related to the API.
+controls folder: Includes code related to controls.
+report folder: Consists of the Part 2 Report.
+src folder: Holds the main source code.
+Note:
+Unfortunately, the .idea file couldn't be added to the repository.
+Contact:
+If you have any questions or require further clarification, please feel free to contact me.
 
-Part Two is in Jabberpoint_Sourcecode_Students Folder which you can find api folder, controls folder, report folder, part 2 Diagram(Which is the diagrams we needed to make for part 2 of the assignment) and src folder which contains the code as well api folder and control folder contain code.
+Thank you for reviewing the submission.
 
-Disclamier .Idea file could not be added in the repo.
-if you have any question please contant me.
+Best regards,
+Terry Ioannou
